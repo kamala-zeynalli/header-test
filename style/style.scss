@@ -1,0 +1,32 @@
+@import "sass/mixins" ;
+*{ 
+    margin: 0;
+      padding: 0;
+  }
+  body{ 
+font-size: 14px;
+margin-top: 0.5rem;
+header {background-color: rgb(160, 153, 153);
+  
+   .one{ 
+     margin-top: 0.5rem;
+     form{ 
+       text-align: center;
+      }
+   }
+   
+.two{
+  margin-right: 1.8rem;;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+  }
+  ul{
+    list-style: none;
+    margin-left: 0.5rem;
+    
+}
+  }
+
+  }
